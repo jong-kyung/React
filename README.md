@@ -457,4 +457,4 @@ localStorage.removeItem('데이터이름') // 삭제
     - 다시 build해서 업로드하면 됨
 3. build 할 때 압축 시키지 말고 남기고 싶은 파일이 있는 경우
     - public폴더에 넣고 build하면 됨.
-    - public폴더에 보관하고 ./ 경로가 아닌 / 경로로 import해오면 됨
+    - public폴더에 보관하고 ./ 경로가 아닌 / 경로로 import
