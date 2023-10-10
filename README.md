@@ -1,4 +1,10 @@
 # React
+## 프로젝트 생성
+``` bash
+npx create-react-app 프로젝트명
+# react 프로젝트 생성(pwa)
+npx create-react-app 프로젝트명 --template cra-template-pwa
+```
 ## 특징
 ### 페이지 구분
 - 컴포넌트를 만들어서 상세페이지 내용을 채움
