@@ -352,7 +352,7 @@ let Context1 = createContext() // context를 생성해줌(state 보관함)
 #### import
 -  import 경로
 -  import 작명 from '경로'
--  ㅑmport {변수1, 변수2} from '경로'
+-  import {변수1, 변수2} from '경로'
 
 #### export
 - export default 변수명
